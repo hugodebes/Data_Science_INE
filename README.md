@@ -28,7 +28,6 @@ Thanks to the INE teams for this great course.
 
 If you have any questions, feel free to ask! 
 
-(I do not own 
 
 <img src=https://user-images.githubusercontent.com/51094403/136016292-228718c9-51b8-4edf-a733-c0962cd2e12f.png alt="drawing" width="400"/>
 
