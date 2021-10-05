@@ -7,6 +7,8 @@ Here are some visual examples :
 
 ## Visualization
 This showcases the basis of different Python libraries such as NumPy or Pandas concerning data processing and visualizations.
+
+
 <img src=https://user-images.githubusercontent.com/51094403/136029303-13d3f3e9-7661-469b-95a9-752aea27089b.png alt="drawing" width="300"/>
 <img src=https://user-images.githubusercontent.com/51094403/136029412-d0396796-5856-486e-9c7f-8919aba69deb.png alt="drawing" width="450"/>
 
