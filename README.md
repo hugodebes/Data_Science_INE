@@ -1,6 +1,5 @@
 # Data_Science_INE
-
-I have completed all the free parts of the INE certification regarding Data Science. 
+I have completed all notebooks of the free parts of the INE certification regarding Data Science. 
 
 You'll find the different notebooks I have completed throughout this 6 hours course.
 
