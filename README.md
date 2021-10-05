@@ -4,7 +4,7 @@ I have completed all the free parts of the INE certification regarding Data Scie
 
 You'll find the different notebooks I have completed throughout this 6 hours course.
 
-This showcases the basis of different Python libraries such as NumPy or Pandas.
+This showcases the basis of different Python libraries such as NumPy or Pandas concerning data processing and visualizations.
 
 Then, we create a real-world problem using the Scikit Learn libraries. It contains a simple utilization of different models like the Linear Regression or a Random Tree Classifier.
 
